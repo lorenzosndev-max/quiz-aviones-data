@@ -9,15 +9,21 @@
     },
     {
       "id": 2,
+      "image": "images/a380.jpg",
+      "answers": ["Airbus A380-800", "Airbus A350-900", "Boeing 747-8", "Boeing 777-300ER"],
+      "correct": 0
+    },
+    {
+      "id": 3,
       "image": "images/b737-800.jpg",
       "answers": ["Boeing 737 MAX 8", "Airbus A320", "Boeing 737-800", "Airbus A319"],
       "correct": 2
     },
     {
-      "id": 3,
-      "image": "images/a350.jpg",
-      "answers": ["Airbus A350-900", "Airbus A330-900", "Boeing 777-300ER", "Boeing 787-10"],
-      "correct": 0
+      "id": 4,
+      "image": "images/a321.jpg",
+      "answers": ["Airbus A320", "Airbus A321", "Airbus A319", "Embraer E195-E2"],
+      "correct": 1
     }
   ]
 }
